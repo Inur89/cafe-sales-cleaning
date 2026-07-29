@@ -1,6 +1,6 @@
 # Café Sales Data Cleaning
 
-A data cleaning and quality assessment project built with Python and pandas, using a deliberately "dirty" café transactions dataset. Part of the *Data Quality and Data Wrangling* coursework (DLBDSDQDW01) at IU Internationale Hochschule.
+A project involving data cleaning and quality assessment was built using Python and Pandas. The project used a deliberately "dirty" café transactions dataset.
 
 ## Overview
 
